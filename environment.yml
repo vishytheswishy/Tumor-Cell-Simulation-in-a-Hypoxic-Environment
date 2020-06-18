@@ -1,0 +1,5 @@
+name: cell-activation-model
+dependencies:
+  - python=3.6
+  - pip:
+      - mesa
