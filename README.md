@@ -1,12 +1,10 @@
 # oxydiff-cancer
-CS 184C Spring 2020 Final project. This project simulates a tissue with the following types of cells:
-- tba
+This project simulates a tissue with the following types of cells:
 
-our base code is forked from 
+base code is forked from 
 https://github.com/shippy/cell-activation-model
 
 and more details about the methods implemented can be found here:
-- tba
 
 
 Setup
@@ -20,3 +18,6 @@ conda activate cell-mesa
 
 pip install -r requirements.txt
 ```
+
+then run the simulator using python3 run.py
+a chrome popup should appear
