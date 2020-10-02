@@ -1,4 +1,4 @@
-# Tumor-Cell-Simulation-in-a-Hypoxic-Environment
+# Tumor Cell Simulation in a Hypoxic Environment
 This project simulates a tissue with the following types of cells:
 
 base code is forked from 
