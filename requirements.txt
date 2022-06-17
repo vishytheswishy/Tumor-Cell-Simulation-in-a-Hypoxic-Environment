@@ -1,6 +1,6 @@
 matplotlib==2.0.2
 Mesa==0.8.1
-numpy==1.12.1
+numpy==1.21.0
 numpydoc==0.6.0
 pandas==0.20.1
 scikit-image==0.13.0
